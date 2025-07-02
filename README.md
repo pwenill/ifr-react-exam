@@ -21,6 +21,6 @@ Demare le serveur json
 
 ## Structures
 
-/public - Contenant tout les fichiers publique du projet
-/server - Contenant le serveur de la base de données pokemon
-/assets - Contient l'integralité de l'application
+- /public - Contenant tout les fichiers publique du projet
+- /server - Contenant le serveur de la base de données pokemon
+- /assets - Contient l'integralité de l'application
